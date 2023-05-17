@@ -9,4 +9,4 @@ CSS was already precoded again. Not a whole lot done on this section other than 
 ## JavaScript
 This was the most challenging section for me. I was having some trouble saving to local storage, but was able to finally get the text to save after each refresh. This allows the schedule to change color depending on the time. 
 
-<img width="350" alt="Screenshot 2023-04-09 at 12 16 18 PM" src="file:///Users/joshdeino/Desktop/workday-scheduler/index.html">
+<img width="350" alt="Screenshot 2023-04-09 at 12 16 18 PM" src="68477A5A-721D-4CAB-B140-FF18FA9BB4E6.jpeg">
